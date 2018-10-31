@@ -17,7 +17,7 @@ import java.lang.Comparable;
 public class CompareComparatorAndComparableTest{
 
     public static void main(String[] args) {
-        // 新建ArrayList(动态数组)
+        // 新建ArrayList(动态数组)  ssss
         ArrayList<Person> list = new ArrayList<Person>();
         // 添加对象到ArrayList中
         list.add(new Person("ccc", 20));
