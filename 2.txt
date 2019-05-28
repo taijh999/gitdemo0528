@@ -1,0 +1,42 @@
+dfdfd
+
+
+dfvdvd
+
+dvd
+vd
+v
+dv
+
+v
+dv
+git clone F:\git\gitdemo0528>doskey /history
+f:
+cd git
+cd gitdemo0528
+git --version
+git init
+git add 2.txt
+git status
+git rm --cached 2.txt
+git status
+git add 2.txt
+git status
+git commit -m "firstcommit"
+git config --global user.email "taijh999@163.com"
+git config --global user.name "taijh999"
+git commit -m "firstcommit"
+doskey /history
+git
+git -version
+gitk --all
+git add .
+git commit -m "secondcommit"
+git log
+git reset --hard 5ef2d76d13453898a435c054a7f55b5ba32e1c3a
+git reset --hard 02c1992b1ef8fc6fabe4b4d96c7a5bfddcbd8388
+git reset --hard 5ef2d76d13453898a435c054a7f55b5ba32e1c3a
+git reset --hard 02c1992b1ef8fc6fabe4b4d96c7a5bfddcbd8388
+gitk --all
+git reset --hard 5ef2d76d13453898a435c054a7f55b5ba32e1c3a
+doskey /history
