@@ -12,7 +12,7 @@ public class FileDemo1 {
 
     public static void main(String args[]) {
 
-        File folder = new File("E:\\20161001\\java2016\\ch05\\src\\demo928");
+        File folder = new File("E:\\20161001\\java2016\\ch05\\src");
         File files[] = folder.listFiles();
 
         int countJava=0;
